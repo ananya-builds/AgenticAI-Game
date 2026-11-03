@@ -1,0 +1,3 @@
+gymnasium
+google-genai
+python-dotenv
